@@ -1,0 +1,6 @@
+<component name="BookmarkManager">
+	<bookmark url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java" description="doGetBean" line="239" />
+	<bookmark url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" description="createBean.AbstractAutowireCapableBeanFactory" line="454" />
+	<bookmark url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" description="doCreateBean" line="524" />
+	<bookmark url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" description="createBeanInstance" line="1078" />
+</component>
